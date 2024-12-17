@@ -20,13 +20,45 @@ Compartir herramientas, código y proyectos que reflejen mi experiencia en el an
 
 🧬 Áreas de interés:
 
-Bioestadística avanzada
-Análisis de datos multi-ómicos
-Epidemiología
-Visualización de datos complejos
-Ciencia de datos aplicada a la salud
++ Bioestadística avanzada
++ Análisis de datos multi-ómicos
++ Epidemiología
++ Visualización de datos complejos
++ Ciencia de datos aplicada a la salud
 
 Este espacio es mi manera de aprender, desarrollar y devolver a la comunidad parte de lo aprendido y de seguir creciendo junto a profesionales con intereses afines.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## If there's a pattern, I'll find it 🔍
+
+👋 Hi! I'm Jesús, and I'm a biostatistician.
+
+Since 2018, I have been working in the fascinating world of data applied to health and scientific research, when epidemiological analyses were the gold standard and bioinformatics tools were just starting to emerge. Throughout my career, I have participated in projects involving a wide variety of data, including:
+
+* Socio-cultural
+* Nutritional
+* Clinical
+* Genetic
+* Metabolomic
+* Proteomic
+* Metagenomic
+
+I specialize in using R for statistical analysis and data visualization, but I also work with Python and SQL, always adapting to the needs of the project and the data it is built upon.
+
+📊 What is my goal here on GitHub?
+
+To share tools, code, and projects that reflect my experience in analyzing complex datasets and conducting biostatistical research. My purpose is to contribute a bit to general knowledge and provide access to resources that help other professionals, future experts, and students solve real-world problems through data.
+
+🧬 Areas of Interest:
+
++ Advanced Biostatistics
++ Multi-omics Data Analysis
++ Epidemiology
++ Visualization of Complex Data
++ Data Science Applied to Health
+
+This space is my way of learning, developing, and giving back to the community some of what I’ve learned while continuing to grow alongside professionals with similar interests.
 <!--
 **GavilanBiost/GavilanBiost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
