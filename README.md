@@ -2,7 +2,7 @@
 
 👋 ¡Hola! Soy Jesús y soy bioestadístico.
 
-Desde 2018 he trabajado en el fascinante mundo de los datos aplicados a la salud y la investigación científica, cuando los análisis epidemiológicos eran la referencia y las herramientas bioinformáticas apenas comenzaban a abrirse paso. A lo largo de mi trayectoria, he participado en proyectos con todo tipo de datos como:
+Desde 2018 he trabajado en el mundo de los datos aplicados a la salud y la investigación científica, cuando los análisis epidemiológicos eran la referencia y las herramientas bioinformáticas apenas comenzaban a abrirse paso. A lo largo de mi trayectoria, he participado en proyectos con todo tipo de datos como:
 
 * Socio-culturales
 * Nutricionales
