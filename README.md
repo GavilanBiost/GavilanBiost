@@ -1,4 +1,4 @@
-## Si hay un patrón, lo encontraré 🔍 
+## Transformando Ideas en Conocimiento 
 
 👋 ¡Hola! Soy Jesús y soy bioestadístico.
 
