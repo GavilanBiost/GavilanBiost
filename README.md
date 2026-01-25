@@ -30,7 +30,7 @@ Este espacio es mi manera de aprender, desarrollar y devolver a la comunidad par
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## If there's a pattern, I'll find it 🔍
+## Transforming Ideas into Knowledge
 
 👋 Hi! I'm Jesús, and I'm a biostatistician.
 
